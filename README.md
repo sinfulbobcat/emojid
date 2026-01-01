@@ -1,5 +1,7 @@
 # 😄 emojid
 
+[!WARNING] WIP, Clone Compile and Develop, nothing but that!
+
 **Fast, keyboard-first emoji & kaomoji picker for Wayland (KDE Plasma)**
 
 `emojid` is a minimal, instant emoji picker designed for **Wayland**, built in **Rust** using **egui/eframe**.
