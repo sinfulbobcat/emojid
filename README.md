@@ -1,6 +1,7 @@
 # 😄 emojid
 
-[!WARNING] WIP, Clone Compile and Develop, nothing but that!
+> [!CAUTION]
+> WIP, Clone Compile and Develop, nothing but that!
 
 **Fast, keyboard-first emoji & kaomoji picker for Wayland (KDE Plasma)**
 
